@@ -1,6 +1,7 @@
-// Hieu Le
+
+
 // Blackjack project
-// Professor Charles
+
 
 package Game;
 
